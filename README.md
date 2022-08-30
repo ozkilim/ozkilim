@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ozkilim
-- 👀 I’m interested in ML and medical imaging. 
-- 🌱 I’m currently learning GNN's
+- 👀 I’m interested in ML and open scientific problems. 
+- 🌱 I’m currently learning about GNN's
 - 💞️ I’m looking to collaborate on ML projects.
 - 📫 How to reach me ozkilim@hotmail.co.uk
 
