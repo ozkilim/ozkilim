@@ -8,7 +8,8 @@ I make pathology slides talk, and big models run on small computers.
 
 🔬 Postdoctoral Research Fellow @ [CHIP](https://www.chip.org/) — Boston Children's Hospital / [Harvard Medical School](https://connects.catalyst.harvard.edu/Profiles/display/Person/230045)
 ⚙️ CTO @ Tropiflo
-📚 [Google Scholar](https://scholar.google.com/citations?user=DtBgwP8AAAAJ) · 🏛️ [Harvard Catalyst Profile](https://connects.catalyst.harvard.edu/Profiles/display/Person/230045)
+🌐 [ozkilim.github.io](https://ozkilim.github.io/) · 📚 [Google Scholar](https://scholar.google.com/citations?user=DtBgwP8AAAAJ) · 🏛️ [Harvard Catalyst Profile](https://connects.catalyst.harvard.edu/Profiles/display/Person/230045)
+🎓 PhD, Eötvös Loránd University (ELTE) · MChem, [University of Oxford](https://benesch.chem.ox.ac.uk/scientists_files/998b5c240f08cb71577711770faddf06-70.html) (Lincoln College)
 
 ---
 
